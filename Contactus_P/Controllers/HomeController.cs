@@ -21,7 +21,6 @@ namespace Contactus_P.Controllers
         }
         public IActionResult Message()
         {
-            
             return View(message);
         }
     }
